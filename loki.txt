@@ -1,2 +1,3 @@
 teste de cadastro loki
 mais umalinha para o segundo envio
+teste de registro no git e baixar no projeto local
